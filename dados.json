@@ -1,0 +1,97 @@
+{
+  "yoda.jpg": {
+    "imagem": "yoda.jpg",
+    "nome": "Yoda",
+    "descricao": "Grão Mestre da Ordem Jedi. Após a Ordem 66 se exilou em Dagobah e anos depois terminou o treinamento de Luke Skywalker até morrer aos 900 anos."
+  },
+  "luke-skywalker.jpg": {
+    "imagem": "luke-skywalker.jpg",
+    "nome": "Luke Skywalker",
+    "descricao": "Filho de Anakin Skywalker e herói da Rebelião. Tornou-se um dos Jedi mais poderosos da galáxia. Salvou seu pai e criou uma nova Ordem Jedi."
+  },
+  "darth-vader.jpg": {
+    "imagem": "darth-vader.jpg",
+    "nome": "Darth Vader",
+    "descricao": "Poderoso Jedi herói das Guerras Clônicas, antes conhecido como Anakin Skywalker. Corrompido pelo lado sombrio, tornou-se aprendiz de Darth Sidious."
+  },
+  "ahsoka-tano.jpg": {
+    "imagem": "ahsoka-tano.jpg",
+    "nome": "Ahsoka Tano",
+    "descricao": "Ex-padawan de Anakin Skywalker. Deixou a Ordem Jedi por discordar de seus métodos. Lutou ao lado da Rebelião em batalhas importantes."
+  },
+  "mara-jade.jpg": {
+    "imagem": "mara-jade.jpg",
+    "nome": "Mara Jade",
+    "descricao": "Ex-mão do Imperador no universo Legends. Mais tarde tornou-se Jedi e esposa de Luke Skywalker. Famosa por sua força, habilidade e lealdade."
+  },
+  "thrawn.jpg": {
+    "imagem": "thrawn.jpg",
+    "nome": "Grand Admiral Thrawn",
+    "descricao": "Tático brilhante do Império conhecido por estudar a arte dos inimigos. Um dos mais temidos comandantes imperiais. Surgiu em Heir to the Empire (Legends)."
+  },
+  "chewbacca.jpg": {
+    "imagem": "chewbacca.jpg",
+    "nome": "Chewbacca",
+    "descricao": "Guerreiro Wookiee que lutou nas Guerras Clônicas. Durante a era imperial foi um contrabandista e melhor amigo de Han Solo."
+  },
+  "han-solo.jpg": {
+    "imagem": "han-solo.jpg",
+    "nome": "Han Solo",
+    "descricao": "Contrabandista carismático que virou herói da Aliança Rebelde. Capitão da Millennium Falcon. Conhecido por sua coragem e amizade com Chewbacca."
+  },
+  "obi-wan-kenobi.jpg": {
+    "imagem": "obi-wan-kenobi.jpg",
+    "nome": "Obi-Wan Kenobi",
+    "descricao": "Mestre Jedi que treinou Anakin e Luke Skywalker. Lutou nas Guerras Clônicas e enfrentou Darth Vader. Um dos mais sábios cavaleiros Jedi."
+  },
+  "leia-organa.jpg": {
+    "imagem": "leia-organa.jpg",
+    "nome": "Leia Organa",
+    "descricao": "Princesa de Alderaan e líder da Rebelião. Irmã de Luke Skywalker e sensível à Força. Também uma estrategista e diplomata poderosa."
+  },
+  "darth-revan.jpg": {
+    "imagem": "darth-revan.jpg",
+    "nome": "Darth Revan",
+    "descricao": "Antigo Jedi que caiu para o lado sombrio e se tornou um Lorde Sith. Figura lendária da Velha República. Um dos personagens mais complexos do universo Legends."
+  },
+  "darth-malgus.jpg": {
+    "imagem": "darth-malgus.jpg",
+    "nome": "Darth Malgus",
+    "descricao": "Sith brutal da época da Velha República. Conhecido por sua força avassaladora e armadura respiratória. Participou da destruição do Templo Jedi."
+  },
+  "darth-nihilus.jpg": {
+    "imagem": "darth-nihilus.jpg",
+    "nome": "Darth Nihilus",
+    "descricao": "Senhor Sith que consumia planetas com sua fome de Força. Envolto em trevas, quase não tinha forma física. Representa o lado sombrio absoluto."
+  },
+  "r2-d2.jpg": {
+    "imagem": "r2-d2.jpg",
+    "nome": "R2-D2",
+    "descricao": "Droide astromecânico leal e corajoso. Salvou inúmeros heróis com suas ferramentas e dados críticos. Parte vital das trilogias da saga como companheiro de C-3PO e droide amigo de Anakin e Luke."
+  },
+  "c3po.jpg": {
+    "imagem": "c3po.jpg",
+    "nome": "C-3PO",
+    "descricao": "Droide de protocolo fluente em mais de seis milhões de formas de comunicação. Companheiro de R2-D2. Frequentemente envolvido em situações perigosas sem querer."
+  },
+  "aayla-secura.jpg": {
+    "imagem": "aayla-secura.jpg",
+    "nome": "Aayla Secura",
+    "descricao": "Cavaleira Jedi Twi'lek altamente habilidosa. Serviu como general nas Guerras Clônicas. Foi executada na Ordem 66 pelo comandante de seu esquadrão."
+  },
+  "kylo-ren.jpg": {
+    "imagem": "kylo-ren.jpg",
+    "nome": "Kylo Ren",
+    "descricao": "Filho de Leia e Han, treinado por Luke Skywalker. Seduzido pelo lado sombrio, tornou-se aprendiz de Snoke liderando a Primeira Ordem, buscando terminar o que Darth Vader começou."
+  },
+  "padme-amidala.jpeg": {
+    "imagem": "padme-amidala.jpeg",
+    "nome": "Padmé Amidala",
+    "descricao": "Rainha e depois senadora de Naboo. Conhecida por sua compaixão e liderança, lutando com argumentos no senado e com blasters no campo de batalha. Esposa de Anakin e mãe de Luke e Leia."
+  },
+  "darth-maul.jpg": {
+    "imagem": "darth-maul.jpg",
+    "nome": "Darth Maul",
+    "descricao": "Sith brutal treinado por Darth Sidious. Derrotado e dado como morto por Obi-Wan Kenobi, renasceu com sede de vingança, moldado pela raiva e magia das Irmãs da Noite."
+  }
+}
